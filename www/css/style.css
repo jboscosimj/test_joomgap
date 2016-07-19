@@ -1,0 +1,37 @@
+.bar-positive .title {
+    /* background-image: url("../img/Joomla-brandmark-flat-RGB-60.png"); */
+    background-image: url("../img/Joomla-brandmark-flat-RGB.svg"), linear-gradient(transparent, transparent);
+    
+    background-position: right;
+    background-repeat: no-repeat;
+	background-attachment: scroll;        
+    background-size: auto 80%;
+}
+
+.jed-browse .item-thumbnail-left > img:first-child {
+	height: auto;
+}
+
+.jed-browse .extension-type {
+	float: left;
+	color: #aaa;
+	font-size: 14px;	
+}
+
+.extension-type .button {
+	margin-right: 6px;
+	background-color: #f6c801;
+	color: #fff;
+}
+
+.extension-type .extension-type-C {
+	background-color: #1e9e33;;
+}
+
+.extension-type .extension-type-M {
+	background-color: #e20a0a;
+}
+
+.extension-type .extension-type-P {
+	background-color: #57278e;
+}
